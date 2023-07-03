@@ -1,0 +1,60 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="СomputerMaster.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="MoneyCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">150</Value>
+    </Setting>
+    <Setting Name="Work" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Безработный</Value>
+    </Setting>
+    <Setting Name="Computer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="Memory" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="HardDrive" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="Modem" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="CDROM" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="SoundBlaster" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="System" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="AntiVirus" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="Programming" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="BBS" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нет</Value>
+    </Setting>
+    <Setting Name="Mood" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Нормальное</Value>
+    </Setting>
+    <Setting Name="Status" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Чайник</Value>
+    </Setting>
+    <Setting Name="MoneyWorking" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="MoodCount" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">50</Value>
+    </Setting>
+    <Setting Name="Point" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+    <Setting Name="Soft" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">0</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
